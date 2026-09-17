@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Atreyee Das 👋
 
-<!--
-**Atreyeee/Atreyeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Computer Science & Business Systems | 2027**
+💻 **Python & Full-Stack Developer | AI/ML Enthusiast**
 
-Here are some ideas to get you started:
+I enjoy building practical software using **Python, Django, Flask, SQL, and machine learning**. I'm interested in backend development, data-driven applications, and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 Currently working on **AI/ML and full-stack projects**
+* 🌱 Exploring **backend development, data engineering & cloud technologies**
+* 📍 Kolkata, India
+
+## 🛠️ Tech Stack
+
+### Languages
+
+`Python` `C++` `JavaScript` `SQL`
+
+### Web Development
+
+`Django` `Flask` `HTML5` `CSS3` `Bootstrap` `REST APIs`
+
+### Data & AI/ML
+
+`Pandas` `NumPy` `Scikit-learn` `TensorFlow` `OpenCV` `Power BI` `Tableau`
+
+### Databases
+
+`MySQL` `PostgreSQL` `SQLite` 
+
+### Tools & Technologies
+
+`Git` `GitHub` `Docker` `Microsoft Azure` `Postman` `Selenium`
+
+
+## 🤝 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/atreyee-das-70b9282b7/) · [GitHub](https://github.com/Atreyeee)
+
+---
+
+⭐ Feel free to explore my repositories and projects!
